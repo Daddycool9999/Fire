@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d57675-4e02-48bc-b7ea-68c2e3c9768f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Backendfire/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/androidTest/java/com/example/backendfire/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Chat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Feed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Main2Activity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Others.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Photo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/user.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/circle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/second.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/tail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout-land/activity_feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_others.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_photo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/permission.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/permsec.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values-v23/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/test/java/com/example/backendfire/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backendfire/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dGkHjPmtrNfJRqmLxNrDmQvBdf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d57675-4e02-48bc-b7ea-68c2e3c9768f" name="Default Changelist" comment="" />
+      <created>1592058731118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592058731118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="129" width="800" height="847" key="CommitChangelistDialog2" timestamp="1592058854433">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="129" width="800" height="847" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1592058854433" />
+  </component>
+</project>
