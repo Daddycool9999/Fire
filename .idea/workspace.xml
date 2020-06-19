@@ -1,81 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b1d57675-4e02-48bc-b7ea-68c2e3c9768f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Backendfire/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/debug/app-debug.apk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/androidTest/java/com/example/backendfire/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Chat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Feed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Main2Activity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Others.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Photo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/Users.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/java/com/example/backendfire/user.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/circle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/images.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/in.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/out.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/second.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/drawable/tail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout-land/activity_feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_chat.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_main2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_others.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_photo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/layout/activity_users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/permission.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/permsec.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/menu/second.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values-v23/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/main/res/values/styles.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/app/src/test/java/com/example/backendfire/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backendfire/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="6a167b97" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -98,10 +52,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.711591853">
+      <recent name="com.example.backendfire" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -177,9 +141,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="588" y="129" width="800" height="847" key="CommitChangelistDialog2" timestamp="1592058854433">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592554108201">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="129" width="800" height="847" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1592058854433" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1592554108201" />
+    <state x="970" y="233" width="800" height="847" key="CommitChangelistDialog2" timestamp="1592554316790">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="970" y="233" width="800" height="847" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1592554316790" />
+    <state x="751" y="281" width="452" height="543" key="FileChooserDialogImpl" timestamp="1592554196340">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="751" y="281" width="452" height="543" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1592554196340" />
+    <state width="1807" height="234" key="GridCell.Tab.0.bottom" timestamp="1592554081773">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1592554081773" />
+    <state width="1807" height="234" key="GridCell.Tab.0.center" timestamp="1592554081773">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1592554081773" />
+    <state width="1807" height="234" key="GridCell.Tab.0.left" timestamp="1592554081772">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1592554081772" />
+    <state width="1807" height="234" key="GridCell.Tab.0.right" timestamp="1592554081773">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="234" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1592554081773" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1592553215805">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1592553215805" />
   </component>
 </project>
